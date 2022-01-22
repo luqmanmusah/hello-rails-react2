@@ -3,4 +3,4 @@
 import '@hotwired/turbo-rails';
 // import "controllers"
 // import "./components/clock.jsx"
-import './components/App.jsx';
+import './components/App';
