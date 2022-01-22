@@ -11,6 +11,7 @@ const rootReducer = (state = initialState, action) => {
   console.log(action);
   switch (action.type) {
     case 'GET_RANDOM_MSG_SUCCSESS':
+      console.log(action);
       return { msg: action.json };
     default:
       return state;
