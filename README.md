@@ -26,10 +26,10 @@ Showing a random message
 
 ## Getting Started
 
-- Clone this repo <https://github.com/Bishoy-Samwel/Rails-React-Intro>
+- Clone this repo <https://github.com/luqmanmusah/hello-rails-react2>
 
   ```bash
-  git clone https://github.com/Bishoy-Samwel/Rails-React-Intro
+  git clone https://github.com/luqmanmusah/hello-rails-react2
   ```
 
 - Navigate to Rails-React-Intro/directory
@@ -57,13 +57,13 @@ Showing a random message
 From SpaceX API, this app/project is interacting/consuming the following endpoints:
 
 - **Base URL** - <http://localhost:3000>
-- **GET a greeting - Method(GET)** - <http://localhost:3000/api/v1/randomMessage.json>
+- **GET a greeting - Method(GET)** - <http://localhost:3000/randomMessage.json>
 
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Bishoy-Samwel/Rails-React-Intro/issues)
+Feel free to check the [issues page]https://github.com/luqmanmusah/hello-rails-react2/issues)
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/newFeature`)
@@ -75,9 +75,9 @@ Feel free to check the [issues page](https://github.com/Bishoy-Samwel/Rails-Reac
 
 👤 **Bishoy Samwel Faheem**
 
-- GitHub: [@Bishoy Samwel Faheem](https://github.com/Bishoy-Samwel)
-- LinkedIn: [Bishoy Samwel](https://www.linkedin.com/in/bishoy-samwuel-ss/)
-- Twitter: [@bisho](https://twitter.com/BishoFaheem15)
+- GitHub: [@Luqman Musah](https://github.com/luqmanmusah)
+- LinkedIn: [Luqman Musah](https://www.linkedin.com/in/luqmanmusah)
+- Twitter: [@luqbo1](https://twitter.com/luqboi1)
 ## Acknowledgements
 
 - [ReactJS Organization](https://reactjs.org/) for the amazing [Documentation](https://reactjs.org/docs/getting-started.html) on React.
