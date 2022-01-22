@@ -75,9 +75,9 @@ Feel free to check the [issues page](https://github.com/Bishoy-Samwel/Rails-Reac
 
 👤 **Bishoy Samwel Faheem**
 
-- GitHub: [@Bishoy Samwel Faheem](https://github.com/Bishoy-Samwel)
-- LinkedIn: [Bishoy Samwel](https://www.linkedin.com/in/bishoy-samwuel-ss/)
-- Twitter: [@bisho](https://twitter.com/BishoFaheem15)
+- GitHub: [@Bishoy Samwel Faheem](https://github.com/luqmanmusah)
+- LinkedIn: [Bishoy Samwel](https://www.linkedin.com/in/luqmanmusah)
+- Twitter: [@bisho](https://twitter.com/luqboi1)
 ## Acknowledgements
 
 - [ReactJS Organization](https://reactjs.org/) for the amazing [Documentation](https://reactjs.org/docs/getting-started.html) on React.
