@@ -26,10 +26,10 @@ Showing a random message
 
 ## Getting Started
 
-- Clone this repo <https://github.com/Bishoy-Samwel/Rails-React-Intro>
+- Clone this repo <https://github.com/luqmanmusah/hello-rails-react2>
 
   ```bash
-  git clone https://github.com/Bishoy-Samwel/Rails-React-Intro
+  git clone https://github.com/luqmanmusah/hello-rails-react2
   ```
 
 - Navigate to Rails-React-Intro/directory
@@ -57,13 +57,13 @@ Showing a random message
 From SpaceX API, this app/project is interacting/consuming the following endpoints:
 
 - **Base URL** - <http://localhost:3000>
-- **GET a greeting - Method(GET)** - <http://localhost:3000/api/v1/randomMessage.json>
+- **GET a greeting - Method(GET)** - <http://localhost:3000/randomMessage.json>
 
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Bishoy-Samwel/Rails-React-Intro/issues)
+Feel free to check the [issues page]https://github.com/luqmanmusah/hello-rails-react2/issues)
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/newFeature`)
